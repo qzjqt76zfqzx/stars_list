@@ -4,11 +4,11 @@ the respository collects all stars.
 
 ## github
 
-[git cz](https://github.com/commitizen/cz-cli)    -- commmit tools for git
+[git cz](https://github.com/commitizen/cz-cli) -- commmit tools for git
 
 ## http/https
 
-[axios](https://github.com/axios/axios)   -- promise based HTTP client for the browser and node.js 
+[axios](https://github.com/axios/axios) -- promise based HTTP client for the browser and node.js
 
 ## javascript
 
@@ -16,12 +16,12 @@ the respository collects all stars.
 
 [express](https://github.com/expressjs/express)
 
-[free-code-camp](https://github.com/freeCodeCamp/freeCodeCamp)
+[gold-miner](https://github.com/xitu/gold-miner) -- translate community
 
-[node-best-practices](https://github.com/goldbergyoni/nodebestpractices)
+[node-best-practices](https://github.com/goldbergyoni/nodebestpractices) [TODO] -- The Node.js best practices list
 
 [react](https://github.com/facebook/react)
 
 [vue](https://github.com/vuejs/vue)
 
-[you-dont-know-js](https://github.com/getify/You-Dont-Know-JS)
+[you-dont-know-js](https://github.com/getify/You-Dont-Know-JS) -- A book series on JavaScript
