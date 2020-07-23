@@ -25,3 +25,7 @@ the respository collects all stars.
 [vue](https://github.com/vuejs/vue)
 
 [you-dont-know-js](https://github.com/getify/You-Dont-Know-JS) -- A book series on JavaScript
+
+## open source
+
+[gold-miner](https://github.com/xitu/gold-miner) -- good article and practice English
